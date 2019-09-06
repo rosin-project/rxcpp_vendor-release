@@ -1,0 +1,12 @@
+Source: ros-melodic-rxcpp-vendor
+Section: misc
+Priority: extra
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: https://github.com/ReactiveX/RxCpp
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rxcpp-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: A vendor package for RxCpp

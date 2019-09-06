@@ -1,0 +1,8 @@
+ros-melodic-rxcpp-vendor (4.1.0-1bionic) bionic; urgency=high
+
+  * First release (of the wrapper package)
+  * Contributors: gavanderhoorn
+
+ -- G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>  Thu, 29 Aug 2019 22:00:00 -0000
+
+
